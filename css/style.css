@@ -1,0 +1,25 @@
+#background {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+#buffer{
+	padding:40px;
+}
+#logoimg{
+	border-radius: 20%;
+}
+#readlogo{
+	color: silver;
+	font-family: robotomono;
+}
+.loginbutton{
+	text-align: center;
+}
+.brand-area{
+  background-color: transparent;
+}
